@@ -1,14 +1,23 @@
 # __Mondaine Stop2Go__
-----
 The Stop2Go Mondaine models reproduce the same movement of the famous clock of the Swiss Railways. The seconds hand stops for 2 seconds, before the minute runs out, to start again with the minutes hand with a new lap of 58 seconds. Still today the trains in Switzerland departs on the minute, this is where it was invented the movement of Stop2Go.
-# [About]
 
+----
+
+# [Download]
+There are 2 ways to install this Rainmeter package:
+ - The first way is downloading the *.rmskin* package and opening it, 
+ - 
 
 # [Guide]
-Nel pacchetto ci sono 3 skin, una con il tema chiaro, una con il tema scuro dell’orologio Mondaine Stop2Go, e una terza con le impostazioni dell’UTENTE. Consiglio vivamente di modificare solo tutto quello che riguarda la skin “USER”, per evitare di incorrere in problemi.
+In this pack there are 3 skins, one with a Light Theme, one with a Dark Theme and one with the USER options of the watch Mondaine Stop2Go.
+Once downloaded
+Consiglio vivamente di modificare solo tutto quello che riguarda la skin “USER”, per evitare di incorrere in problemi.
  - Un Primo livello di impostazioni è quello contenuto nel file “*Stop2Go USER.ini*”, raggiungibile anche dall’applicazione di Rainmeter montando la skin e cliccando il tasto modifica in alto a destra, dove sono contenute le opzioni dei Colori Base. *(Tutti i colori del pacchetto sono espressi in codice RGB; R, G, B, Trasparenza.)* Si possono modificare i Colori dello sfondo e dei vari elementi dell’orologio.
  - Un Secondo livello di impostazioni è contenuto nel file “*Settings.inc*”, raggiungibile tramite l’Esplora Risorse in “*\Rainmeter\Skins\Mondainde Stop2Go\@Resources*”, dove sono contenute le opzioni di Grandezza, della Cornice e della Lancetta Secondi. Si possono modificare la Grandezza di tutta la skin, la presenza o no della Cornice e il suo Colore e il Colore della Lancetta Secondi.
  - Un Terzo livello di impostazioni è contenuto nel file “SwissRailwayStop2Go_USER.inc”, raggiungibile tramite l’Esplora Risorse in “*\Rainmeter\Skins\Mondainde Stop2Go\@Resources*”, dove sono contenute le impostazioni Generali della skin. I valori “PREDEFINITI” in questo file sono sovrascritti dai file “*Stop2Go USER.ini*” e “*Settings.inc*”. __Si diffida dal modificare qualcosa in questo file per evitare problemi.__
+ 
+# [About]
+I haven't created this skin, I reviewed and modified a pre-existing skin made by [**Monochromatope**](https://www.deviantart.com/monochromatope) | Shayne Holmes on [Deviantart](https://www.deviantart.com/) that had various problems.
 
 # [Options]
 | Option | File |
