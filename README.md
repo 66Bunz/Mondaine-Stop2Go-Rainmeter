@@ -7,7 +7,7 @@ The Stop2Go Mondaine models reproduce the same movement of the famous clock of t
 Make shure you have Rainmeter 4.3.1.3321 or following.
 There are 2 ways to install this Rainmeter package:
  - The first way is downloading the *.rmskin* package, opening the file will open a window and, making shure that the option *Load included skins* is ticked to open the readme document with the guide.
- - The second way is downloading the GIT repository and moving it to the Rainmeter Skins directory "*\Rainmeter\Skins*"
+ - The second way is downloading the GIT repository in the Rainmeter Skins directory "*\Rainmeter\Skins*"
 
 # [Guide]
 In this pack there are 3 skins, one with a Light Theme, one with a Dark Theme and one with the USER options of the watch Mondaine Stop2Go.
