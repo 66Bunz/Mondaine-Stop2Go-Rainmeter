@@ -33,7 +33,7 @@ Feel free to modify or redistribute these Rainmeter skins as much as you want. J
 
 # [Credits]
 [**Monochromatope**](https://www.deviantart.com/monochromatope) | Shayne Holmes
-    • [*Swiss Railway Clock - Stop2Go edition*](https://www.deviantart.com/monochromatope/art/Swiss-Railway-Clock-Stop2Go-edition-592873114) (code)
+    • [*Swiss Railway Clock - Stop2Go edition*](https://www.deviantart.com/monochromatope/art/Swiss-Railway-Clock-Stop2Go-edition-592873114) (I reviewed/modified his code)
 
 [**Flying Hyrax**](https://www.deviantart.com/flyinghyrax) | Kaelri
     • [*Simplicity-Circles*](https://www.deviantart.com/flyinghyrax/art/Simplicity-Circles-223877982) (readme inspiration)
