@@ -2,7 +2,8 @@
 ----
 
 # [About]
-I modelli di orologi *Mondaine Stop2Go* riproducono lo stesso movimento del famoso orologio delle ferrovie svizzere. La lancetta dei secondi si ferma per 2 secondi, prima dello scadere del minuto, per scattare insieme alla lancetta dei minuti e ripartire per un altro giro di 58 secondi. Ancora oggi i treni in Svizzera partono allo scoccare esatto del minuto, ecco da dove è nata l'invenzione del movimento Stop 2 Go.
+Mondaine has created something very unique with their Stop2Go, tying the watch back to its source in the Swiss Railway. If you happen to find yourself on a Swiss Railway platform, watch the clock closely as the second hand reaches 60. You’ll notice it stops, waits 2 seconds at which point the minute hand jumps forward, and the second hand resumes. The second hand is accelerated to complete a rotation in 58 seconds. It waits there until it receives an electric signal from a central hub, which tells the minute to jump and the seconds to reactivate.The Stop2Go watch features a movement that replicates this motion. It’s a quartz movement with two motors, one for the seconds hand and the other for the minute and hour. The time and motion of the hands is regulated by a “Special Integrated Circuit” in order to maintain accuracy. Unlike most quartz watches, the Stop2Go also has a sweep seconds, ticking at a rate of about 4 times per second. As the watch is not controlled by a central signal, the unique stopping motion is novel rather than the effect of synchronization, but as it’s a quartz it is accurate regardless. One slightly poetic side effect is that it gives you a 2 seconds pause every minute. Time stops… waits… then starts again.
+
 
 # [Guide]
 Nel pacchetto ci sono 3 skin, una con il tema chiaro, una con il tema scuro dell’orologio Mondaine Stop2Go, e una terza con le impostazioni dell’UTENTE. Consiglio vivamente di modificare solo tutto quello che riguarda la skin “USER”, per evitare di incorrere in problemi.
