@@ -55,8 +55,3 @@ Feel free to modify or redistribute these Rainmeter skins as much as you want. J
 - [My DeviantArt Page](https://www.deviantart.com/bunz66): bunz66
 - [My GitHub](https://github.com/66Bunz/-Rainmeter-Mondaine_Stop2Go): 66Bunz
 - My Mail: [bunzen@protonmail.com](mailto:bunzen@protonmail.com)
-
-
-![Screenshot_4](https://user-images.githubusercontent.com/66331265/100244186-f16b1b80-2f36-11eb-9a0b-582ee5d59965.png)
-![Screenshot_3](https://user-images.githubusercontent.com/66331265/100244189-f29c4880-2f36-11eb-86cf-dbcfe2771630.png)
-![Screenshot_2](https://user-images.githubusercontent.com/66331265/100244191-f29c4880-2f36-11eb-8118-5e6cb6c60f7d.png)
