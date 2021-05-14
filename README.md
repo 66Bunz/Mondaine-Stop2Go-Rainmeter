@@ -1,6 +1,7 @@
 # __Mondaine Stop2Go__
 
-![alt text](https://github.com/66Bunz/-Rainmeter-Mondaine_Stop2Go/blob/main/Mondaine%20Stop2Go/%40Resources/Images/Mondaine%20Stop2Go.png?raw=true)
+![Mondaine Stop2Go](https://user-images.githubusercontent.com/66331265/118241245-3874ab00-b49c-11eb-8da1-59387da53f66.png)
+
 The Stop2Go Mondaine models reproduce the same movement of the famous clock of the Swiss Railways. The seconds hand stops for 2 seconds, before the minute runs out, to start again with the minutes hand with a new lap of 58 seconds. Still today the trains in Switzerland departs on the minute, this is where it was invented the movement of Stop2Go.
 
 ----
@@ -20,7 +21,7 @@ __DISCLAIMER: all the settings are valid only for the User version and not for t
 I haven't created this skin, I started from a pre-existing skin made by [**Monochromatope**](https://www.deviantart.com/monochromatope) | Shayne Holmes on [Deviantart](https://www.deviantart.com/) that had various problems and developed as it is today.
 
 # [Options]
-![alt text](https://github.com/66Bunz/-Rainmeter-Mondaine_Stop2Go/blob/main/Mondaine%20Stop2Go/%40Resources/Images/Settings.png?raw=true)
+![Settings](https://user-images.githubusercontent.com/66331265/118241293-43c7d680-b49c-11eb-981b-fe54f78727a0.png)
 
 With a user friendly Settings panel you can choose what version of the skin you want between the Light/Classic one, the Dark one and the one that you can customize as you want.
 Of the User version you can customize the existence and the color of the bezel, the colors of the background, of the elements and of the seconds hand, and the size of the clock. 
