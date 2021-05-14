@@ -1,37 +1,34 @@
 # __Mondaine Stop2Go__
+
+![alt text](https://github.com/66Bunz/-Rainmeter-Mondaine_Stop2Go/blob/main/Mondaine%20Stop2Go/%40Resources/Images/Mondaine%20Stop2Go.png?raw=true)
 The Stop2Go Mondaine models reproduce the same movement of the famous clock of the Swiss Railways. The seconds hand stops for 2 seconds, before the minute runs out, to start again with the minutes hand with a new lap of 58 seconds. Still today the trains in Switzerland departs on the minute, this is where it was invented the movement of Stop2Go.
 
 ----
 
 # [Download]
-Make shure you have Rainmeter 4.3.1.3321 or following.
+Make shure you have Rainmeter 4.3 or following.
 There are 2 ways to install this Rainmeter package:
- - The first way is downloading the *.rmskin* package, opening the file will open a window and, making shure that the option *Load included skins* is ticked to open the readme document with the guide.
- - The second way is downloading the GIT repository in the Rainmeter Skins directory "*\Rainmeter\Skins*"
+ - The first way is downloading the *.rmskin* package from [my DeviantArt page](https://www.deviantart.com/bunz66/art/Mondaine-Stop2Go-2-1-ENG-862227018) or from here. Opening the file will open the installer and, after making shure that the option *Load included skins* is ticked to open the readme document with the guide, you can click on install.
+ - The second way is cloning this repository in the Rainmeter Skins directory "*\Rainmeter\Skins*"
 
 # [Guide]
-In this pack there are 3 skins, one with a Light Theme, one with a Dark Theme and one with the USER options of the watch Mondaine Stop2Go.
-Once downloaded you can modify some options of the skins but I highly recommend modifying only the "USER" skin to avoid problems and errors. There are 3 levels of Options, reachable by the File Explorer:
- - A First level of Options is the one conteined in the file “*Stop2Go USER.ini*”, also reachable from the Rainmeter application by mounting the skin and clicking the edit button at the top right, where the Basic Colors options are contained. *(All the colors of the package are expressed in RGB code; R, G, B, Transparency.)* You can change the colors of the background and the various elements of the clock.
- - A Second level of Options is the one conteined in the file “*Stop2Go USER.ini*”, reachable at “ *\Rainmeter\Skins\Mondainde Stop2Go\ @Resources* ”, where the options of Size, of the Frame and of the Seconds Hand are contained. You can change the Size of the whole skin, the presence or not of the Frame and its Color, and the Color of the Second Hand.
- - A Third level of Options in the one contained in the file “SwissRailwayStop2Go_USER.inc” reachable at “ *\Rainmeter\Skins\Mondainde Stop2Go\ @Resources* ”, where the General settings of the skin are contained. The “DEFAULT” values in this file are overwritten by the “ *Stop2Go USER.ini* ” and “ *Settings.inc* ” files. __Be aware that modifying anything in this file might cause problems.__ 
+In this pack there is a customizable skin of the Swiss Railways famous clock Stop2Go by Mondaine. Once downloaded and installed the package, this file and the clock will show up. The clock default variant is the Classic one, but you can customize it with a simple right click on it, and opening the settings. With the first setting you can decide which variant to show, the default Classic one, a Dark one and a User one, of which you can edit everything from the other settings below the first one. 
+__DISCLAIMER: all the settings are valid only for the User version and not for the Classic and the Dark one, except for the size setting, that is global.__ 
  
 # [About]
-I haven't created this skin, I reviewed and modified a pre-existing skin made by [**Monochromatope**](https://www.deviantart.com/monochromatope) | Shayne Holmes on [Deviantart](https://www.deviantart.com/) that had various problems.
+I haven't created this skin, I started from a pre-existing skin made by [**Monochromatope**](https://www.deviantart.com/monochromatope) | Shayne Holmes on [Deviantart](https://www.deviantart.com/) that had various problems and developed as it is today.
 
 # [Options]
-| Option | File |
-| ------ | ------ |
-| BackGround Color | [*Stop2Go USER.ini*] |
-| Elements Color | [*Stop2Go USER.ini*] |
-| Skin Size | [*@Resources\Settings.inc*] |
-| Bezel Existence | [*@Resources\Settings.inc*] |
-| Bezel Color | [*@Resources\Settings.inc*] |
-| Seconds Hand Color | [*@Resources\Settings.inc*] |
+![alt text](https://github.com/66Bunz/-Rainmeter-Mondaine_Stop2Go/blob/main/Mondaine%20Stop2Go/%40Resources/Images/Settings.png?raw=true)
+With a user friendly Settings panel you can choose what version of the skin you want between the Light/Classic one, the Dark one and the one that you can customize as you want.
+Of the User version you can customize the existence and the color of the bezel, the colors of the background, of the elements and of the seconds hand, and the size of the clock. 
 
 # [Changelog]
 - *15 November 2020* - Test Release
 - *23 November 2020* - Stable Release 1.1
+- *12 May 2021* - First Test Release 2.0.1
+- *13 May 2021* - Last Test Release 2.0.11
+- *14 May 2021* - Stable Release 2.1
 
 # [License]
 [Creative Commons Attribution Non-Commercial Share-Alike 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)
@@ -47,8 +44,13 @@ Feel free to modify or redistribute these Rainmeter skins as much as you want. J
 [**Flying Hyrax**](https://www.deviantart.com/flyinghyrax) | Kaelri  
     • [*Simplicity-Circles*](https://www.deviantart.com/flyinghyrax/art/Simplicity-Circles-223877982) (readme inspiration)
 
+[**CyberOfficial**](https://www.deviantart.com/cybergen49) | CyberGen49
+    • [*CyberCircle Suite for Rainmeter*](https://www.deviantart.com/cybergen49/art/CyberCircle-Suite-for-Rainmeter-815752935) (Settings inspiration)
+
+
 # [Contacts]
-- [My DeviantArt Page](https://www.deviantart.com/bunz66)
+- [My DeviantArt Page](https://www.deviantart.com/bunz66): bunz66
+- [My GitHub](https://github.com/66Bunz/-Rainmeter-Mondaine_Stop2Go): 66Bunz
 - My Mail: [bunzen@protonmail.com](mailto:bunzen@protonmail.com)
 
 
