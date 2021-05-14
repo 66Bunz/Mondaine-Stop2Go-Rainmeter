@@ -13,6 +13,7 @@ There are 2 ways to install this Rainmeter package:
 
 # [Guide]
 In this pack there is a customizable skin of the Swiss Railways famous clock Stop2Go by Mondaine. Once downloaded and installed the package, this file and the clock will show up. The clock default variant is the Classic one, but you can customize it with a simple right click on it, and opening the settings. With the first setting you can decide which variant to show, the default Classic one, a Dark one and a User one, of which you can edit everything from the other settings below the first one. 
+
 __DISCLAIMER: all the settings are valid only for the User version and not for the Classic and the Dark one, except for the size setting, that is global.__ 
  
 # [About]
@@ -20,6 +21,7 @@ I haven't created this skin, I started from a pre-existing skin made by [**Monoc
 
 # [Options]
 ![alt text](https://github.com/66Bunz/-Rainmeter-Mondaine_Stop2Go/blob/main/Mondaine%20Stop2Go/%40Resources/Images/Settings.png?raw=true)
+
 With a user friendly Settings panel you can choose what version of the skin you want between the Light/Classic one, the Dark one and the one that you can customize as you want.
 Of the User version you can customize the existence and the color of the bezel, the colors of the background, of the elements and of the seconds hand, and the size of the clock. 
 
