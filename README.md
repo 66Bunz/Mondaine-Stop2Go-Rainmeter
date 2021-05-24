@@ -29,9 +29,11 @@ Of the User version you can customize the existence and the color of the bezel, 
 # [Changelog]
 - Version 1.1 - *(23 November 2020)*
 - Version 2.1 - *(14 May 2021)*
- Added a settings interface, Code simplification
+  Added a settings interface, Code simplification
+  
 - Version 2.1.1 - *(16 May 2021)*
- Bug fixes
+  Bug fixes
+  
 
 # [License]
 [Creative Commons Attribution Non-Commercial Share-Alike 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)
