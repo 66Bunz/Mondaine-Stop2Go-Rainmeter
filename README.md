@@ -27,11 +27,11 @@ With a user friendly Settings panel you can choose what version of the skin you 
 Of the User version you can customize the existence and the color of the bezel, the colors of the background, of the elements and of the seconds hand, and the size of the clock. 
 
 # [Changelog]
-- *15 November 2020* - Test Release
-- *23 November 2020* - Stable Release 1.1
-- *12 May 2021* - First Test Release 2.0.1
-- *13 May 2021* - Last Test Release 2.0.11
-- *14 May 2021* - Stable Release 2.1
+- Version 1.1 - *(23 November 2020)*
+- Version 2.1 - *(14 May 2021)*
+  Added a settings interface, Code simplification
+- Version 2.1.1 - *(16 May 2021)*
+  Bug fixes
 
 # [License]
 [Creative Commons Attribution Non-Commercial Share-Alike 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)
