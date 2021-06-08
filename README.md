@@ -33,7 +33,7 @@ Of the User version you can customize the existence and the color of the bezel, 
 - Version 2.1.1 - *(16 May 2021)*  
   Bug fixes
 - Version 2.2 - *(07 June 2021)*
-      Added localization (added English, Italian, Polish [thanks Jacob_Officjal_PL]), Code simplification, Bug fixes
+- Added localization (added English, Italian, Polish [thanks Jacob_Officjal_PL]), Code simplification, Bug fixes
 
 # [License]
 [Creative Commons Attribution Non-Commercial Share-Alike 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)
