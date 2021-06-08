@@ -1,7 +1,7 @@
 
 [Variables]
 # Settings
-@Include=#@#SettingsLog/SettingsLog.ini
+@Include=#@#SettingsLog/SettingsLog.inc
 
 # TIME CONTROLS
 GainRatio=0.034483
@@ -101,11 +101,21 @@ LineColor=[#SecondsHandColor[#Variant]]
 [MeterClockBackground]
 Meter=Roundline
 LineColor=[#ClockBackgroundColor[#Variant]]
-LineStart=0
+LineStart=1
 LineLength=(#ClockRadius#)
 MeterStyle=styleCircle
-StartAngle=4.712
-RotationAngle=6.283
+StartAngle=(Rad(270))
+RotationAngle=(Rad(360))
+#4.712
+
+[MeterClockBackground2]
+Meter=Roundline
+LineColor=[#ClockBackgroundColor[#Variant]]
+LineStart=1
+LineLength=(#ClockRadius#)
+MeterStyle=styleCircle
+StartAngle=(Rad(100))
+RotationAngle=(Rad(360))
 
 [MinuteMarkers]
 Measure=Script
@@ -211,6 +221,16 @@ UpdateDivider=-1
 # Bezel
 Meter=Roundline
 MeterStyle=styleCircle
+LineLength=(#SkinSize#/2)
+LineStart=(#SkinSize#/2-#ClockBezelWidth#)
+Hidden=([#ClockBezelExists[#Variant]]?0:1)
+LineColor=[#BezelColor[#Variant]]
+
+[MeterBezel1]
+# Bezel
+Meter=Roundline
+MeterStyle=styleCircle
+StartAngle=(Rad(270))
 LineLength=(#SkinSize#/2)
 LineStart=(#SkinSize#/2-#ClockBezelWidth#)
 Hidden=([#ClockBezelExists[#Variant]]?0:1)
