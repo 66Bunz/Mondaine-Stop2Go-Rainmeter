@@ -32,6 +32,8 @@ Of the User version you can customize the existence and the color of the bezel, 
   Added a settings interface, Code simplification
 - Version 2.1.1 - *(16 May 2021)*  
   Bug fixes
+- Version 2.2 - *(07 June 2021)*
+      Added localization (added English, Italian, Polish [thanks Jacob_Officjal_PL]), Code simplification, Bug fixes
 
 # [License]
 [Creative Commons Attribution Non-Commercial Share-Alike 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)
@@ -50,6 +52,10 @@ Feel free to modify or redistribute these Rainmeter skins as much as you want. J
 [**CyberOfficial**](https://www.deviantart.com/cybergen49) | CyberGen49
 - [*CyberCircle Suite for Rainmeter*](https://www.deviantart.com/cybergen49/art/CyberCircle-Suite-for-Rainmeter-815752935) (Settings inspiration)
 
+# [Translations]
+- English
+- Italian
+- Polish (Jacob_Officjal_PL)
 
 # [Contacts]
 - [My DeviantArt Page](https://www.deviantart.com/bunz66): bunz66
