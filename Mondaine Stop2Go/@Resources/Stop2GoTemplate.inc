@@ -29,6 +29,12 @@ Update=20
 [MeasureTime]
 Measure=Time
 
+[MeasureSound]
+Measure=Time
+Format=%M%S
+IfEqualValue=0000
+IfEqualAction=PLAY #@#\Sounds\Hours.wav
+
 [MeasureSmoothTime]
 Measure=SCRIPT
 ScriptFile=#SCRIPT#Progress.lua

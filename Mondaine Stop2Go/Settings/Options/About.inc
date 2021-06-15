@@ -1,12 +1,12 @@
 
-[AboutHeader]
+[SectionHeader6]
 Meter=String
-Text=[#S5H]
+Text=[#SH6]
 X=30
 Y=20R
 FontFace=Quicksand Medium
 FontSize=14
-FontColor=eeeeee
+FontColor=#FontColor1#
 StringAlign=LeftTop
 InlineSetting=Weight | 700
 AntiAlias=1
@@ -20,7 +20,7 @@ X=30
 Y=10R
 FontFace=Quicksand Medium
 FontSize=18
-FontColor=EB2CF8
+FontColor=#Pink1#
 StringAlign=LeftTop
 AntiAlias=1
 ClipString=1
@@ -33,7 +33,7 @@ X=30
 Y=3R
 FontFace=Quicksand Medium
 FontSize=12
-FontColor=b719c2
+FontColor=#Pink2#
 StringAlign=LeftTop
 AntiAlias=1
 ClipString=1
@@ -41,12 +41,12 @@ Container=OptionContainer
 
 [Version]
 Meter=String
-Text=[#S5Vrs] [#Version]
+Text=[#AVrs] [#Version]
 X=30
 Y=5R
 FontFace=Nunito
 FontSize=10
-FontColor=eeeeee
+FontColor=#FontColor1#
 StringAlign=LeftTop
 AntiAlias=1
 ClipString=1
@@ -54,13 +54,13 @@ Container=OptionContainer
 
 [Description]
 Meter=String
-Text=[#S5Dsc]
+Text=[#ADsc]
 X=30
 Y=5R
 W=290
 FontFace=Nunito
 FontSize=9
-FontColor=eeeeee
+FontColor=#FontColor1#
 StringAlign=LeftTop
 AntiAlias=1
 ClipString=2
@@ -68,13 +68,13 @@ Container=OptionContainer
 
 [Warning]
 Meter=String
-Text=[#S5Wrng]
+Text=[#AWrng]
 X=30
 Y=3R
 W=290
 FontFace=Nunito
 FontSize=9
-FontColor=eb4034
+FontColor=#Red#
 StringAlign=LeftTop
 AntiAlias=1
 ClipString=2

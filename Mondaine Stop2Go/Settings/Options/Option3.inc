@@ -1,55 +1,55 @@
 
-[SectionHeader3]
-Group=UserOpt
-Meter=String
-Text=[#S3H]
-X=30
-Y=20R
-FontFace=Quicksand Medium
-FontSize=14
-FontColor=eeeeee
-StringAlign=LeftTop
-InlineSetting=Weight | 700
-AntiAlias=1
-ClipString=1
-Container=OptionContainer
- 
+[CheckOption3]
+Measure=Calc
+Formula=1
+IfCondition=[#SoundExists[#Variant]] = 1
+IfTrueAction=[!SetOption OptionBox3 ImageName "#@#Images\checkboxFull.png"]
+IfFalseAction=[!SetOption OptionBox3 ImageName "#@#Images\checkboxEmpty.png"]
+IfCondition2=[#SoundExists[#Variant]] > 1
+IfTrueAction2=[!WriteKeyValue Variables SoundExists2 "0" "#@#SettingsLog/SettingsLog.inc"][!Refresh][!RefreshGroup "RefreshGroup"]
+
 [OptionTitle3]
 Group=UserOpt
 Meter=String
-Text=[#S3Ttl1]
+Text=[#O3Ttl]
 X=30
 Y=10R
 FontFace=Nunito Bold
 FontSize=11
-FontColor=eeeeee
+FontColor=#FontColor1#
 StringAlign=LeftTop
 AntiAlias=1
 ClipString=1
 Container=OptionContainer
+DynamicVariables=1
+ToolTipTitle=[#O3WITtl]
+ToolTipText=[#O3WIDsc]
+ToolTipIcon=Question
 
-[OptionColour3]
+[OptionBox3]
 Meter=Image
-ImageName=#@#Images\colorPalette.png
-X=284
-Y=7r
-W=24
-H=24
-ImageTint=[#ClockBackgroundColor2]
+ImageName=#@#Images\checkboxEmpty.png
+X=288
+Y=10r
+W=16
+H=16
 Container=OptionContainer
-LeftMouseUpAction=["#@#Addons\RainRGB4.exe" "VarName=ClockBackgroundColor2" "FileName=#@#SettingsLog/SettingsLog.inc"][!Refresh][!RefreshGroup "RefreshGroup"]
+LeftMouseUpAction=[!WriteKeyValue Variables SoundExists2 "([#SoundExists[#Variant]] + 1)" "#@#SettingsLog/SettingsLog.inc"][!Refresh][!RefreshGroup "RefreshGroup"]
 
 [OptionDesc3]
 Group=UserOpt
 Meter=String
-Text=[#S3Dsc1]
+Text=[#O3Dsc]
 X=30
-Y=-11R
+Y=-5R
 W=240
 FontFace=Nunito
 FontSize=9
-FontColor=dddddd
+FontColor=#FontColor2#
 StringAlign=LeftTop
 AntiAlias=1
 ClipString=2
 Container=OptionContainer
+ToolTipTitle=[#O3WITtl]
+ToolTipText=[#O3WIDsc]
+ToolTipIcon=Question

@@ -2,12 +2,12 @@
 [SectionHeader2]
 Group=UserOpt
 Meter=String
-Text=[#S2H]
+Text=[#SH2]
 X=30
 Y=20R
 FontFace=Quicksand Medium
 FontSize=14
-FontColor=#Color1#
+FontColor=#FontColor1#
 StringAlign=LeftTop
 InlineSetting=Weight | 700
 AntiAlias=1
@@ -27,12 +27,12 @@ IfTrueAction2=[!WriteKeyValue Variables ClockBezelExists2 "0" "#@#SettingsLog/Se
 [OptionTitle2]
 Group=UserOpt
 Meter=String
-Text=[#S2Ttl]
+Text=[#O2Ttl]
 X=30
 Y=10R
 FontFace=Nunito Bold
 FontSize=11
-FontColor=#Color1#
+FontColor=#FontColor1#
 StringAlign=LeftTop
 AntiAlias=1
 ClipString=1
@@ -52,13 +52,13 @@ LeftMouseUpAction=[!WriteKeyValue Variables ClockBezelExists2 "([#ClockBezelExis
 [OptionDesc2]
 Group=UserOpt
 Meter=String
-Text=[#S2Dsc]
+Text=[#O2Dsc]
 X=30
 Y=-5R
 W=240
 FontFace=Nunito
 FontSize=9
-FontColor=#Color2#
+FontColor=#FontColor2#
 StringAlign=LeftTop
 AntiAlias=1
 ClipString=2

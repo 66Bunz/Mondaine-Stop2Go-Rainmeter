@@ -2,12 +2,12 @@
 [OptionTitle6]
 Group=UserOpt
 Meter=String
-Text=[#S3Ttl4]
+Text=[#O6Ttl]
 X=30
 Y=10R
 FontFace=Nunito Bold
 FontSize=11
-FontColor=eeeeee
+FontColor=#FontColor1#
 StringAlign=LeftTop
 AntiAlias=1
 ClipString=1
@@ -20,20 +20,20 @@ X=284
 Y=7r
 W=24
 H=24
-ImageTint=#BezelColor2#
+ImageTint=[#SecondsHandColor2]
 Container=OptionContainer
-LeftMouseUpAction=["#@#Addons\RainRGB4.exe" "VarName=BezelColor2" "FileName=#@#SettingsLog/SettingsLog.inc"][!Refresh][!RefreshGroup "RefreshGroup"]
+LeftMouseUpAction=["#@#Addons\RainRGB4.exe" "VarName=SecondsHandColor2" "FileName=#@#SettingsLog/SettingsLog.inc"][!Refresh][!RefreshGroup "RefreshGroup"]
 
 [OptionDesc6]
 Group=UserOpt
 Meter=String
-Text=[#S3Dsc4]
+Text=[#O6Dsc]
 X=30
 Y=-11R
 W=240
 FontFace=Nunito
 FontSize=9
-FontColor=dddddd
+FontColor=#FontColor2#
 StringAlign=LeftTop
 AntiAlias=1
 ClipString=2
