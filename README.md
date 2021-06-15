@@ -23,7 +23,7 @@ I haven't created this skin, I started from a pre-existing skin made by [**Monoc
 # [Options]
 ![Settings](https://user-images.githubusercontent.com/66331265/118241293-43c7d680-b49c-11eb-981b-fe54f78727a0.png)
 
-With a user friendly Settings panel you can choose what version of the skin you want between the Light/Classic one, the Dark one and the one that you can customize as you want.
+With a user friendly Settings panel you can choose what version of the skin you want between the Classic one, the Dark one and the one that you can customize as you want.
 Of the User version you can customize the existence and the color of the bezel, the colors of the background, of the elements and of the seconds hand, and the size of the clock. You can also change the language of the whole skin.
 
 # [Changelog]
