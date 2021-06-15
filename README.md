@@ -34,6 +34,8 @@ Of the User version you can customize the existence and the color of the bezel, 
   Bug fixes
 - Version 2.2 - *(07 June 2021)*  
  Added localization (added English, Italian, Polish [thanks Jacob_Officjal_PL]), Code simplification, Bug fixes
+- Version 2.3 - *(15 June 2021)*  
+  Added hourly chimes option, Added New Version window, Code simplification, Bug fixes
 
 # [License]
 [Creative Commons Attribution Non-Commercial Share-Alike 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)
