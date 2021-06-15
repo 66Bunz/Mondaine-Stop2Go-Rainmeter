@@ -27,15 +27,17 @@ With a user friendly Settings panel you can choose what version of the skin you 
 Of the User version you can customize the existence and the color of the bezel, the colors of the background, of the elements and of the seconds hand, and the size of the clock. You can also change the language of the whole skin.
 
 # [Changelog]
-- Version 1.1 - *(23 November 2020)*  
-- Version 2.1 - *(14 May 2021)*  
+- [Version 1.1](https://github.com/66Bunz/Mondaine-Stop2Go-Rainmeter/releases/tag/v1.1-eng) - *(23 November 2020)*  
+- [Version 2.1](https://github.com/66Bunz/Mondaine-Stop2Go-Rainmeter/releases/tag/v2.1-eng) - *(14 May 2021)*  
   Added a settings interface, Code simplification
-- Version 2.1.1 - *(16 May 2021)*  
+- [Version 2.1.1](https://github.com/66Bunz/Mondaine-Stop2Go-Rainmeter/releases/tag/v2.1.1-eng) - *(16 May 2021)*  
   Bug fixes
-- Version 2.2 - *(07 June 2021)*  
+- [Version 2.2](https://github.com/66Bunz/Mondaine-Stop2Go-Rainmeter/releases/tag/v2.2) - *(07 June 2021)*  
  Added localization (added English, Italian, Polish [thanks Jacob_Officjal_PL]), Code simplification, Bug fixes
-- Version 2.3 - *(15 June 2021)*  
+- [Version 2.3](https://github.com/66Bunz/Mondaine-Stop2Go-Rainmeter/releases/tag/v2.3) - *(15 June 2021)*  
   Added hourly chimes option, Added New Version window, Code simplification, Bug fixes
+- [Version light](https://github.com/66Bunz/Mondaine-Stop2Go-Rainmeter/releases/tag/light) - *(15 June 2021)*  
+  Added a light version of the Mondaine Stop2Go clock. You can upgrade to the full version of the skin in any moment from the context menu.
 
 # [License]
 [Creative Commons Attribution Non-Commercial Share-Alike 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)
