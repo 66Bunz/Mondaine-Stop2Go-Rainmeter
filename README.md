@@ -58,6 +58,7 @@ Feel free to modify or redistribute these Rainmeter skins as much as you want. J
 - [*CyberCircle Suite for Rainmeter*](https://www.deviantart.com/cybergen49/art/CyberCircle-Suite-for-Rainmeter-815752935) (Settings inspiration)
 
 ## [Translations]
+__Translations are valid only for the complete version__
 - English
 - Italian
 - Polish (Jacob_Officjal_PL)
