@@ -41,7 +41,7 @@ Of the User version you can customize the existence and the color of the bezel, 
 
 
 # [License]
-[Creative Commons Attribution Non-Commercial Share-Alike 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+GNU General Public License v3.0
 Feel free to modify or redistribute these Rainmeter skins as much as you want. Just:
 - Link back to me somehow
 - Use ths same license
