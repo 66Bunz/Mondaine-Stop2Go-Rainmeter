@@ -12,7 +12,7 @@ There are 2 ways to install this Rainmeter package:
  - The first way is downloading the *.rmskin* package from [my DeviantArt page](https://www.deviantart.com/bunz66/art/Mondaine-Stop2Go-2-3-862227018) or from [here](https://github.com/66Bunz/Mondaine-Stop2Go-Rainmeter/releases/tag/light). Opening the file will open the installer and, after making shure that the option *Load included skins* is ticked to open the readme document with the guide, you can click on install.
  - The second way is cloning this repository in the Rainmeter Skins directory "*\Rainmeter\Skins*"  
 
-[![Download - Download base version](https://img.shields.io/static/v1?label=Download&message=Download+base+version&color=290C2D&style=for-the-badge)](https://gum.co/AqLYb)
+[![Download - Download base version](https://img.shields.io/static/v1?label=Download&message=Download+base+version&color=4BD764&style=for-the-badge)](https://gum.co/AqLYb)
 
 ## [Guide]
 In this pack there is a customizable skin of the Swiss Railways famous Stop2Go clock by Mondaine. Once downloaded and installed the package, the clock will show up. The clock default variant is the Classic one, but you can replace it with a Dark version with a simple right click on it, and selecting the option. 
