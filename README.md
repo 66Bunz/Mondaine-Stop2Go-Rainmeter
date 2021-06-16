@@ -11,14 +11,7 @@ Make shure you have Rainmeter 4.3 or following.
 There are 2 ways to install this Rainmeter package:
  - The first way is downloading the *.rmskin* package from [my DeviantArt page](https://www.deviantart.com/bunz66/art/Mondaine-Stop2Go-2-3-862227018) or from [here](https://github.com/66Bunz/Mondaine-Stop2Go-Rainmeter/releases/tag/light). Opening the file will open the installer and, after making shure that the option *Load included skins* is ticked to open the readme document with the guide, you can click on install.
  - The second way is cloning this repository in the Rainmeter Skins directory "*\Rainmeter\Skins*"  
-
-_Dash badge_
-
-[![Download - Download base version](https://img.shields.io/badge/Download-Download_base_version-2ea44f)](https://github.com/66Bunz/Mondaine-Stop2Go-Rainmeter/releases/tag/base)
-
-_Query parameter badge_
-
-[![Download - Download base version](https://img.shields.io/static/v1?label=Download&message=Download+base+version&color=2ea44f)](https://github.com/66Bunz/Mondaine-Stop2Go-Rainmeter/releases/tag/base)
+[![Download - Download base version](https://img.shields.io/static/v1?label=Download&message=Download+base+version&color=290C2D&style=for-the-badge)](https://github.com/66Bunz/Mondaine-Stop2Go-Rainmeter/releases/tag/base)
 
 ## [Guide]
 In this pack there is a customizable skin of the Swiss Railways famous Stop2Go clock by Mondaine. Once downloaded and installed the package, the clock will show up. The clock default variant is the Classic one, but you can replace it with a Dark version with a simple right click on it, and selecting the option. 
@@ -26,6 +19,7 @@ In this pack there is a customizable skin of the Swiss Railways famous Stop2Go c
 ## [Complete Version]
 You want to customize more the clock? You want some additional features like localization support, an easy settings tab, hourly chimes and a lot more?  
 Upgrade to the complete version of the Mondaine Stop2Go clock **PAYING WHAT YOU WANT** through [Gumroad](https://gum.co/AqLYb)!
+[![Download - Download complete version](https://img.shields.io/static/v1?label=Download&message=Download+complete+version&color=f700fa&style=for-the-badge)](https://github.com/66Bunz/Mondaine-Stop2Go-Rainmeter/releases/tag/base)
 
 ## [About]
 I haven't created this skin, I started from a [pre-existing skin](https://www.deviantart.com/monochromatope/art/Swiss-Railway-Clock-Stop2Go-edition-592873114) made by [**Monochromatope**](https://www.deviantart.com/monochromatope) | Shayne Holmes on [Deviantart](https://www.deviantart.com/) that had some problems and developed as it is today.
