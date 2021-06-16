@@ -37,7 +37,7 @@ Of the User version you can customize the existence and the color of the bezel, 
 - [Version 2.3](https://github.com/66Bunz/Mondaine-Stop2Go-Rainmeter/releases/tag/v2.3) - *(15 June 2021)*  
   Added hourly chimes option, Added New Version window, Code simplification, Bug fixes
 - [Version light](https://github.com/66Bunz/Mondaine-Stop2Go-Rainmeter/releases/tag/light) - *(15 June 2021)*  
-  Added a light version of the Mondaine Stop2Go clock. You can upgrade to the full version of the skin in any moment from the context menu.
+  Added a light version of the Mondaine Stop2Go clock. You can upgrade to the full version of the skin in any moment from the context menu (not ready yet).
 
 # [License]
 [Creative Commons Attribution Non-Commercial Share-Alike 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)
