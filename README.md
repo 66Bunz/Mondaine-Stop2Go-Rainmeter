@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -133,7 +136,15 @@ __Translations are valid only for the complete version__
 
 <p><h2 align="center">Contacts</h2></p>
 
+<a href="https://gum.co/AqLYb"><img src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white" alt="deviantArt"></a>
+
+<a href="https://github.com/66Bunz"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
+
+<a href="mailto:bunzen@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Protonmail"></a>
+
+
+
 - [My DeviantArt Page](https://www.deviantart.com/bunz66): bunz66
-- [My GitHub](https://github.com/66Bunz/-Rainmeter-Mondaine_Stop2Go): 66Bunz
+- [My GitHub](https://github.com/66Bunz): 66Bunz
 - My Mail: [bunzen@protonmail.com](mailto:bunzen@protonmail.com)
 - My [Gumroad](https://app.gumroad.com/bunz66): bunz66
