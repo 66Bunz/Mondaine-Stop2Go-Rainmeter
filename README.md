@@ -24,7 +24,7 @@
             src="https://img.shields.io/github/forks/66Bunz/Mondaine-Stop2Go-Rainmeter.svg" alt="Forks"></a>
     ·
     <a href="https://github.com/66Bunz/Mondaine-Stop2Go-Rainmeter/blob/master/LICENSE"><img
-            src="https://img.shields.io/github/license/66Bunz/Mondaine-Stop2Go-Rainmeter.svg" alt="Licence"></a>
+            src="https://img.shields.io/github/license/66Bunz/Mondaine-Stop2Go-Rainmeter.svg" alt="License"></a>
     ·
     <a href="https://GitHub.com/66Bunz/Mondaine-Stop2Go-Rainmeter/issues/"><img
             src="https://img.shields.io/github/issues/66Bunz/Mondaine-Stop2Go-Rainmeter.svg" alt="Issues"></a>
@@ -37,15 +37,19 @@
 
 ## Table of contents
 
-- [Download](#download)
-- [Guide](#guide)
-- [Complete Version](#complete-version)
-- [About](#about)
-- [Changelog](#changelog)
-- [Licence](#licence)
-- [Credits](#credits)
-- [Translations](#translations)
-- [Contacts](#contacts)
+<details>
+<summary>Click to expand Table of Contents</summary>
+<ul>
+    <li><a href="#download">Download</a></li>
+    <li><a href="#guide">Guide</a></li>
+    <li><a href="#complete-version">Complete Version</a></li>
+    <li><a href="#about">About</a></li>
+    <li><a href="#changelog">Changelog</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#credits">Credits</a></li>
+    <li><a href="#translations">Translations</a></li>
+    <li><a href="#contacts">Contacts</a></li>
+</details>
 
 ## Download
 Make shure you have Rainmeter 4.3 or following.
@@ -53,7 +57,7 @@ There are 2 ways to install this Rainmeter package:
  - The first way is downloading the *.rmskin* package from [my DeviantArt page](https://www.deviantart.com/bunz66/art/Mondaine-Stop2Go-2-3-862227018) or from [here](https://github.com/66Bunz/Mondaine-Stop2Go-Rainmeter/releases/tag/light). Opening the file will open the installer and, after making shure that the option *Load included skins* is ticked to open the readme document with the guide, you can click on install.
  - The second way is cloning this repository in the Rainmeter Skins directory "*\Rainmeter\Skins*"  
 
-[![Download - Download base version](https://img.shields.io/static/v1?label=Download&message=Download+base+version&color=4BD764&style=for-the-badge)](https://gum.co/AqLYb)
+[![Download - Download base version](https://img.shields.io/static/v1?label=Download&message=Download+base+version&color=4BD764&style=for-the-badge)](https://github.com/66Bunz/Mondaine-Stop2Go-Rainmeter/releases/tag/base)
 
 ## Guide
 In this pack there is a customizable skin of the Swiss Railways famous Stop2Go clock by Mondaine. Once downloaded and installed the package, the clock will show up. The clock default variant is the Classic one, but you can replace it with a Dark version with a simple right click on it, and selecting the option. 
@@ -62,7 +66,7 @@ In this pack there is a customizable skin of the Swiss Railways famous Stop2Go c
 You want to customize more the clock? You want some additional features like localization support, an easy settings tab, hourly chimes and a lot more?  
 Upgrade to the complete version of the Mondaine Stop2Go clock **PAYING WHAT YOU WANT** through [Gumroad](https://gum.co/AqLYb)!
 
-[![Download - Download complete version](https://img.shields.io/static/v1?label=Download&message=Download+complete+version&color=f700fa&style=for-the-badge)](https://github.com/66Bunz/Mondaine-Stop2Go-Rainmeter/releases/tag/base)
+[![Download - Download complete version](https://img.shields.io/static/v1?label=Download&message=Download+complete+version&color=f700fa&style=for-the-badge)](https://gum.co/AqLYb)
 
 ## About
 I haven't created this skin, I started from a [pre-existing skin](https://www.deviantart.com/monochromatope/art/Swiss-Railway-Clock-Stop2Go-edition-592873114) made by [**Monochromatope**](https://www.deviantart.com/monochromatope) | Shayne Holmes on [Deviantart](https://www.deviantart.com/) that had some problems and developed as it is today.
