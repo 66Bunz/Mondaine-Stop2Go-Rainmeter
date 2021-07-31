@@ -136,3 +136,4 @@ __Translations are valid only for the complete version__
 - [My DeviantArt Page](https://www.deviantart.com/bunz66): bunz66
 - [My GitHub](https://github.com/66Bunz/-Rainmeter-Mondaine_Stop2Go): 66Bunz
 - My Mail: [bunzen@protonmail.com](mailto:bunzen@protonmail.com)
+- My [Gumroad](https://app.gumroad.com/bunz66): bunz66
