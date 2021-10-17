@@ -1,6 +1,5 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -53,6 +52,7 @@
     <li><a href="#credits">Credits</a></li>
     <li><a href="#translations">Translations</a></li>
     <li><a href="#contacts">Contacts</a></li>
+</ul>
 </details>
 
 
