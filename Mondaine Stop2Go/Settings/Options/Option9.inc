@@ -120,8 +120,8 @@ Hidden=1
 
 
 
-;-----------------------
-;Languages
+; -----------------------
+; Languages
 
 [OptionVariantsButton9_1]
 Meter=Shape
@@ -197,8 +197,8 @@ Hidden=1
 
 
 
-;------------
-;Info
+; ------------
+; Info
 
 [OptionInfoButton9]
 Meter=Shape
@@ -229,8 +229,8 @@ Hidden=1
 
 
 
-;------------
-;Close
+; ------------
+; Close
 
 [OptionCloseButton9]
 Meter=Shape

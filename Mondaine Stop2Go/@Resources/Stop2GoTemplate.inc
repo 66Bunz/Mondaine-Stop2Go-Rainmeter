@@ -1,13 +1,13 @@
 
 [Variables]
-# Settings
+; Settings
 @Include=#@#SettingsLog/SettingsLog.inc
 
-# TIME CONTROLS
+; TIME CONTROLS
 GainRatio=0.034483
 MinuteHandMotionDuration = 0.1
 
-# ELEMENTS OPTIONS
+; ELEMENTS OPTIONS
 NumberOfHourMarkers=12
 NumberOfMinuteMarkers=60
 HandWidth=(floor(#ClockDiameter#*0.038))
@@ -25,15 +25,20 @@ SCRIPT=#@#Scripts/
 [Rainmeter]
 Update=20
 
-# --MEASURES--
+; --MEASURES--
 [MeasureTime]
 Measure=Time
+
+[MeasureTime2]
+Measure=Time
+Format=%M%S
 
 [MeasureSound]
 Measure=Time
 Format=%M%S
-IfEqualValue=0000
-IfEqualAction=PLAY #@#\Sounds\Hours.wav
+IfCondition=([#SoundExists[#Variant]] = 1) && ([MeasureTime2] = 0000)
+IfTrueAction=PLAY #@#\Sounds\Hours.wav
+DynamicVariables=1
 
 [MeasureSmoothTime]
 Measure=SCRIPT
@@ -44,7 +49,7 @@ Measure=Calc
 Formula=1
 UpdateDivider=-1
 
-# --STYLES--
+; --STYLES--
 [styleCircle]
 H=(#SkinSize#)
 W=(#SkinSize#)
@@ -82,6 +87,12 @@ StartAngle=(3/2*PI)
 Solid=0
 AntiAlias=1
 
+[styleLogo]
+W=(#ClockRadius#*0.8)
+X=(#SkinSize#/2-#ClockRadius#*0.4)
+Y=(#SkinSize#/2-#ClockRadius#*0.5)
+ImageTint=[#LogoColor[#Variant]]
+
 [styleHourHand]
 LineLength=#HourHandLength#
 LineStart=#HandBacksideLength#
@@ -103,7 +114,7 @@ Solid=1
 LineLength=(#ClockDiameter#*0.037)
 LineColor=[#SecondsHandColor[#Variant]]
 
-# --METERS--
+; --METERS--
 [MeterClockBackground]
 Meter=Roundline
 LineColor=[#ClockBackgroundColor[#Variant]]
@@ -112,7 +123,7 @@ LineLength=(#ClockRadius#)
 MeterStyle=styleCircle
 StartAngle=(Rad(270))
 RotationAngle=(Rad(360))
-#4.712
+; 4.712
 
 [MeterClockBackground2]
 Meter=Roundline
@@ -122,6 +133,13 @@ LineLength=(#ClockRadius#)
 MeterStyle=styleCircle
 StartAngle=(Rad(100))
 RotationAngle=(Rad(360))
+
+[Logo]
+Meter=Image
+ImageName=#@#Images\MondaineLogo[#Variant].png
+MeterStyle=styleLogo
+Hidden=([#LogoExists[#Variant]]?0:1)
+DynamicVariables=1
 
 [MinuteMarkers]
 Measure=Script
@@ -175,7 +193,7 @@ Measure=Calc
 Formula=((MeasureSmoothTime%60)+min((MeasureSmoothTime%60)*#GainRatio#,60-(MeasureSmoothTime%60)))/60
 
 [MeterHourHand]
-# Hours Hand
+; Hours Hand
 Meter=Roundline
 MeterStyle=styleHand|styleHourHand
 Group=HandsThatUpdateOncePerMinute
@@ -183,7 +201,7 @@ MeasureName=MeasureHours
 UpdateDivider=-1
 
 [MeterMinuteHand]
-# Minutes Hand
+; Minutes Hand
 Meter=Roundline
 MeterStyle=styleHand|styleMinuteHand
 Group=HandsThatUpdateOncePerMinute
@@ -191,13 +209,13 @@ MeasureName=MeasureMinutes
 UpdateDivider=-1
 
 [MeterSecondHand]
-# Seconds Hand
+; Seconds Hand
 Meter=Roundline
 MeterStyle=styleHand|styleSecondHand
 MeasureName=MeasureSeconds
 
 [MeterSecondHandBall]
-# Seconds Hand Ball
+; Seconds Hand Ball
 Meter=Roundline
 MeterStyle=styleHand|styleSecondHandBall
 MeasureName=MeasureOne
@@ -205,7 +223,7 @@ TransformationMatrix=1;0;0;1;(sin(2*PI*[MeasureSeconds])*#ClockDiameter#*0.31349
 DynamicVariables=1
 
 [MeterSecondHandHub]
-# Seconds Hand Hub
+; Seconds Hand Hub
 Meter=Roundline
 MeterStyle=styleHand|styleSecondHandBall
 MeasureName=MeasureOne
@@ -214,7 +232,7 @@ DynamicVariables=1
 UpdateDivider=-1
 
 [MeterSpindle]
-# Spindle
+; Spindle
 Meter=Roundline
 MeterStyle=styleHand|styleSecondHandBall
 MeasureName=MeasureOne
@@ -224,7 +242,7 @@ DynamicVariables=1
 UpdateDivider=-1
 
 [MeterBezel]
-# Bezel
+; Bezel
 Meter=Roundline
 MeterStyle=styleCircle
 LineLength=(#SkinSize#/2)
@@ -233,7 +251,7 @@ Hidden=([#ClockBezelExists[#Variant]]?0:1)
 LineColor=[#BezelColor[#Variant]]
 
 [MeterBezel1]
-# Bezel
+; Bezel
 Meter=Roundline
 MeterStyle=styleCircle
 StartAngle=(Rad(270))

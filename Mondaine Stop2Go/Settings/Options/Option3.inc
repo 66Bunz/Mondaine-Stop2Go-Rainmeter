@@ -2,11 +2,11 @@
 [CheckOption3]
 Measure=Calc
 Formula=1
-IfCondition=[#SoundExists] = 1
+IfCondition=[#SoundExists[#Variant]] = 1
 IfTrueAction=[!SetOption OptionBox3 ImageName "#@#Images\checkboxFull.png"]
 IfFalseAction=[!SetOption OptionBox3 ImageName "#@#Images\checkboxEmpty.png"]
-IfCondition2=[#SoundExists] > 1
-IfTrueAction2=[!WriteKeyValue Variables SoundExists "0" "#@#SettingsLog/SettingsLog.inc"][!Refresh][!RefreshGroup "RefreshGroup"]
+IfCondition2=[#SoundExists[#Variant]] > 1
+IfTrueAction2=[!WriteKeyValue Variables SoundExists[#Variant] "0" "#@#SettingsLog/SettingsLog.inc"][!Refresh][!RefreshGroup "RefreshGroup"]
 
 [OptionTitle3]
 Group=UserOpt
@@ -34,7 +34,7 @@ Y=10r
 W=16
 H=16
 Container=OptionContainer
-LeftMouseUpAction=[!WriteKeyValue Variables SoundExists "([#SoundExists] + 1)" "#@#SettingsLog/SettingsLog.inc"][!Refresh][!RefreshGroup "RefreshGroup"]
+LeftMouseUpAction=[!WriteKeyValue Variables SoundExists[#Variant] "([#SoundExists[#Variant]] + 1)" "#@#SettingsLog/SettingsLog.inc"][!Refresh][!RefreshGroup "RefreshGroup"]
 
 [OptionDesc3]
 Group=UserOpt

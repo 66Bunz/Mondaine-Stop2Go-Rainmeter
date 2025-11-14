@@ -63,10 +63,3 @@ StringAlign=LeftTop
 AntiAlias=1
 ClipString=2
 Container=OptionContainer
-
-
-
-
-
-
-

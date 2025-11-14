@@ -5,17 +5,16 @@ title Resetting Skin Settings...
 
 echo.
 echo * Deleting backup settings...
-del SettingsLogBackup.inc
+del SettingsLogBackup.ini
 echo * Backing up current settings...
-ren SettingsLog.inc SettingsLogBackup.inc
+ren SettingsLog.ini SettingsLogBackup.ini
 echo * Loading default settings...
 md temp
-copy /Y SettingsLogDefaults.inc .\temp
-ren .\temp\SettingsLogDefaults.ini SettingsLog.inc
-copy /Y .\temp\SettingsLog.inc .\
+copy /Y SettingsLogDefaults.ini .\temp
+ren .\temp\SettingsLogDefaults.ini SettingsLog.ini
+copy /Y .\temp\SettingsLog.ini .\
 rd /S /Q temp
 goto end
 
 :end
 exit
-
